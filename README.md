@@ -1,1 +1,2 @@
 # Undergraduate-Project
+In this project paper,we solve volterra integral equation by using Homotopy perturbation method,variational iteration method,series solution method and adomian decomposition method.And we discuss the integro differential equation(linear integro differential equation,non linear integro differential equation).Also solve the problem of first kind of voltera integral differential and second kind of volterra integral differential equation.All the tables and figures made by Mathematica 7.00.
